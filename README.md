@@ -8,6 +8,6 @@
 - Pronouns: he/him
 
 **CS Graduate Student @Boston University** \
-**Research Assistant** at the @Bio-Imaging & Informatics Lab,Boston University Chobanian & Avedisian School of Medicine**
+**Research Assistant at the @Bio-Imaging & Informatics Lab,Boston University Chobanian & Avedisian School of Medicine**
 
 `Python` `PyTorch` `MONAI` `FreeSurfer` `scikit-learn` `NIfTI`
