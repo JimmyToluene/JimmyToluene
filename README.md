@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**JimmyToluene/JimmyToluene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on automated perivascular spaces (PVS) segmentation from brain MRI using 3D deep learning
+- 🌱 I'm currently learning advanced medical image analysis, cross-site generalization, and the MONAI framework
+- 👯 I'm looking to collaborate on neuroimaging ML projects and medical image segmentation challenges
+- 💬 Ask me about PyTorch, MONAI, brain MRI preprocessing, or 3D U-Net architectures
+- 📫 How to reach me: jimmyjia@bu.edu
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My model might be detecting more perivascular spaces than the tool it was trained on
 
-Here are some ideas to get you started:
+**CS Graduate Student @ Boston University**
+**Research Assistant** at the Bio-Imaging & Informatics Lab, BU School of Medicine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python` `PyTorch` `MONAI` `FreeSurfer` `scikit-learn` `NIfTI`
