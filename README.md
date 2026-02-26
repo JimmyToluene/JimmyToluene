@@ -7,7 +7,7 @@
 - How to reach me: jimmyjia@bu.edu
 - Pronouns: he/him
 
-**CS Graduate Student @ Boston University**
+**CS Graduate Student @Boston University** \
 **Research Assistant** at the Bio-Imaging & Informatics Lab, BU School of Medicine
 
 `Python` `PyTorch` `MONAI` `FreeSurfer` `scikit-learn` `NIfTI`
