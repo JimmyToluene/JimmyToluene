@@ -2,7 +2,7 @@
 
 - 🧠 I work on **neuroimaging AI** — currently CSVD biomarker segmentation (MRI) and amyloid-β PET Centiloid regression
 - 🥇 Led team "It's MYGO!!!!!!" to 1st place at the **BU MedAI Hack 2026** Challenge 2: Amyloid PET Quantification
-- 🔬 Research areas: 3D medical image analysis, multi-modal brain imaging, cross-site generalization
+- 🔬 Research interests: 3D medical image analysis, multi-modal brain imaging, cross-site generalization
 - 💬 Happy to discuss: PyTorch, MONAI, amyloid PET pipelines, 3D ResNet, Centiloid quantification
 - 📫 Reach me at: jimmyjia@bu.edu
 - 🏷️ Pronouns: he/him
