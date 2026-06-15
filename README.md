@@ -4,4 +4,4 @@
 - Reach me at: jimmyjia@bu.edu
 - Pronouns: he/him
 
-**CS Graduate Student @ Boston University**  
+**Computer Science, Graduate Student @ Boston University**  
