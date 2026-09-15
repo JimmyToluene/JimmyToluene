@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jimmy — a graduate research assistant in **Medical AI** at [Kolachalama Lab](https://vkola-lab.github.io/), Boston University.
+I'm Jimmy, a graduate research assistant in **Medical AI** at [Kolachalama Lab](https://vkola-lab.github.io/), Boston University.
 
 - Research at the intersection of **computational pathology, neuroimaging, and multimodal ML**.
 - Building **Vision-Language Models for Alzheimer's disease neuropathology**
