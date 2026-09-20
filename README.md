@@ -9,7 +9,7 @@ I'm Jimmy, a graduate research assistant in **Medical AI** at [Kolachalama Lab](
 
 **Computer Science, Graduate Student @ Boston University**
 
-## 🧩 LeetCode
+## LeetCode
 
 <a href="https://leetcode.com/u/jimmyjia/">
   <img src="https://leetcard.jacoblin.cool/jimmyjia?theme=light&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
