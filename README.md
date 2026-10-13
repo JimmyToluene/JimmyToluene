@@ -1,3 +1,5 @@
+<img align="right" width="94" src="assets/sakiko_peek.png" alt="" />
+
 ## Hi there 👋
 
 I'm Jimmy, a graduate research assistant in **Medical AI** at [Kolachalama Lab](https://vkola-lab.github.io/), Boston University.
