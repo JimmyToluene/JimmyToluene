@@ -1,4 +1,4 @@
-<img align="right" width="94" src="assets/sakiko_peek.png" alt="" />
+<img align="right" width="87" src="assets/sakiko_peek.png" alt="" />
 
 ## Hi there 👋
 
